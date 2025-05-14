@@ -1,0 +1,17 @@
+[
+    {
+        "name": "ann",
+        "salary": "200",
+        "experience": "2"
+    },
+    {
+        "name": "athira",
+        "salary": "300",
+        "experience": "3"
+    },
+    {
+        "name": "amal",
+        "salary": "100",
+        "experience": "2"
+    }
+]
