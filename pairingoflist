@@ -1,0 +1,6 @@
+def fun(a,b):
+    return dict(zip(a,b))
+
+key=['name','place','course']
+value=['aman','kochi','python']
+print(fun(key,value)) 
